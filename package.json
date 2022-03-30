@@ -27,7 +27,7 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/blockinator/node-stratum-pool.git"
+        "url": "git+https://github.com/blockinator/node-stratum-pool.git"
     },
     "dependencies": {
         "async": "^3.2.0",
